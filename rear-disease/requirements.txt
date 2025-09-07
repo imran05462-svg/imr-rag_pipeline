@@ -1,0 +1,9 @@
+pandas
+python-dotenv
+pinecone-client
+langchain
+langchain-pinecone
+langchain-huggingface
+langchain-core
+langchain-google-genai
+gradio
